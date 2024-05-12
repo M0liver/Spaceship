@@ -1,0 +1,25 @@
+1. Always use little endian
+2. Always use standard data types
+3. Always have a header
+4. This will be a binary format
+5. Python must use "struct" and explicitly assign little endian when packing or unpacking.
+
+# TODO: determine if should use one struct for requesting data and one for sending or to use one for both.
+
+(unsigned char) Sensor Type ID
+(signed int) X coordinate of sensor
+(signed int) Y coordinate of sensor
+(signed int) Z coordinate of sensor
+(double) Vector of sensor
+(double) Gravitational Force Vector
+(double) Sensor 2
+(double) Sensor 3
+(double) Sensor 4
+(double) Sensor 5
+(double) Sensor 6
+(double) Sensor 7
+(double) Sensor 8
+(double) Sensor 9
+(double) Sensor 10
+
+<ciiidddddddddddd
