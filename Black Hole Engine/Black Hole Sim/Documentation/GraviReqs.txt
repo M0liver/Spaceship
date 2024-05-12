@@ -1,0 +1,11 @@
+Mass of the Black Hole: The primary factor in determining gravitational pull.
+
+Distance of Each Sensor from the Black Hole’s Center: This is crucial for calculating the gravitational force, which decreases with the square of the distance from the source (according to Newton’s law of universal gravitation, or using general relativity for more accuracy near the event horizon).
+
+Vector of the Black Hole: If the black hole is spinning, its angular momentum will affect the space-time around it (Kerr metric), influencing the gravitational pull experienced by the sensors.
+
+Vector of Each Sensor: The movement and orientation of the sensors relative to the black hole could affect the readings due to relativistic effects, especially if they are moving at significant fractions of the speed of light or are in strong gravitational fields.
+
+Schwarzschild Radius (Event Horizon) of the Black Hole: To determine the relative position of the sensors in respect to the event horizon.
+
+General Relativity Effects: For accuracy, considering the curvature of space-time around the black hole is necessary. This includes gravitational time dilation and length contraction effects.
