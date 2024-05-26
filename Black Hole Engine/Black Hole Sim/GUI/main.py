@@ -5,6 +5,7 @@ import struct
 import sys
 
 
+# TODO: Ensure closes cleanly
 class ZMQTkinterApp:
     def __init__(self, r):
         self.close_button = None
