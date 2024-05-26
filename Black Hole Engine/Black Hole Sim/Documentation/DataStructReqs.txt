@@ -5,6 +5,7 @@
 5. Python must use "struct" and explicitly assign little endian when packing or unpacking.
 
 # TODO: determine if should use one struct for requesting data and one for sending or to use one for both.
+# This is for sensor data
 
 (unsigned char) Sensor Type ID
 (signed int) X coordinate of sensor
@@ -23,3 +24,10 @@
 (double) Sensor 10
 
 <ciiidddddddddddd
+
+# TODO: Create the rest of this struct
+# This is for black hole data
+
+(double) Mass
+
+<d
